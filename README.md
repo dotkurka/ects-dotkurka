@@ -2,7 +2,7 @@
 
 ## Installation
 
-`$ npm install express`
+`$ npm install ects-dotkurka`
 
 ## Using
 
