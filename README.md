@@ -26,4 +26,4 @@ console.log(`Score: ${score}, ECTS Grade: ${ectsResult}`); // Score: 95, ECTS Gr
 | `74 - 81`  | `C`  |
 | `65 - 73`  | `D`  |
 | `60 - 64`  | `E`  |
-| `0 - 59`   | `B`  |
+| `0 - 59`   | `F`  |
