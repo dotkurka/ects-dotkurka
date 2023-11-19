@@ -1,28 +1,28 @@
 {
-    "name": "ects-dotkurka",
-    "version": "1.0.0",
-    "description": "Converts points from a 100-point grading system into ECTS format",
-    "main": "index.js",
-    "type": "commonjs",
-    "scripts": {
-        "test": "jest"
-    },
-    "prettier": {
-        "singleQuote": true,
-        "useTabs": true,
-        "printWidth": 100
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/dotkurka/ects-dotkurka.git"
-    },
-    "author": "dotkurka",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/dotkurka/ects-dotkurka/issues"
-    },
-    "homepage": "https://github.com/dotkurka/ects-dotkurka#readme",
-    "devDependencies": {
-        "jest": "^29.7.0"
-    }
+	"name": "ects-dotkurka",
+	"version": "1.0.0",
+	"description": "ECTS converter",
+	"main": "index.js",
+	"type": "commonjs",
+	"scripts": {
+		"test": "jest"
+	},
+	"prettier": {
+		"singleQuote": true,
+		"useTabs": true,
+		"printWidth": 100
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dotkurka/ects-dotkurka.git"
+	},
+	"author": "dotkurka",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/dotkurka/ects-dotkurka/issues"
+	},
+	"homepage": "https://github.com/dotkurka/ects-dotkurka#readme",
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
 }
